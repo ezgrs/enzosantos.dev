@@ -1,0 +1,78 @@
+baseURL = "https://enzosantos.dev/"
+locale = "pt"
+title = "enzosantos.dev"
+theme = "hugo-noir"
+
+relativeURLs = true
+canonifyURLs = true
+
+defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.pt]
+    languageName = "Português"
+    weight = 1
+    contentDir = "content/pt"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+name = "Enzo Santos"
+location = "Belém, Pará, Brasil"
+description = "Desenvolvedor Python. Engenheiro de software. Eu desenvolvo APIs, construo aplicações escaláveis e automatizo fluxos."
+profile_image = "/images/profile.jpg"
+github = "https://github.com/ezgrs"
+github_username = "ezgrs"
+email = "ezgrs.dev@gmail.com"
+medium = "https://www.medium.com/@ezgrs"
+linkedin = "https://www.linkedin.com/in/ezgrs"
+linkedin_username = "ezgrs"
+
+[[params.certifications]]
+title = "Azure AI Engineering Specialist"
+date = "Dec 2024"
+url = "https://example.com/cert-azure"
+
+[[params.certifications]]
+title = "Google Cloud ML Professional"
+date = "March 2024" 
+url = "https://example.com/cert-gcp"
+[[params.blogs]]
+title = "Lorem Ipsum Systems"
+date = "2025-03-15"
+summary = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
+tags = ["Lorem", "Ipsum", "Dolor"]
+content = """
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit...
+"""
+link = "https://medium.com/@loremipsum/lorem-systems"
+
+[menu]
+  [[menu.main]]
+    name = "Sobre"
+    pageRef = "about"
+    weight = 1
+  [[menu.main]]
+    name = "Experiência"
+    pageRef = "experience"
+    weight = 2
+  [[menu.main]]
+    name = "Projetos"
+    pageRef = "projects"
+    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    pageRef = "blogs"
+    weight = 4
+  [[menu.main]]
+    name = "Contato"
+    pageRef = "contact"
+    weight = 5

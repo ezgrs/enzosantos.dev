@@ -1,0 +1,20 @@
+[[projects]]
+title = "Tradeland"
+description = "Jogo idle centrado em batalhas automatizadas, coleta de loot e gerenciamento de economia por meio de inimigos aleatórios e baús descobertos."
+tech = "React, Next.js, Tailwind, shadcn-ui"
+image = "/images/projects/tradeland.png"
+link = "https://github.com/ezgrs/tradeland"
+
+[[projects]]
+title = "wkdead"
+description = "Aplicativo full-stack para acompanhar e analisar personagens de The Walking Dead por temporada, episódio e status (vivo/morto), incluindo aparições e detalhes de morte."
+tech = "Flutter, Python, FastAPI"
+image = "/images/projects/wkdead.png"
+link = "https://github.com/ezgrs/wkdead"
+
+[[projects]]
+title = "BarbalhoETL"
+description = "Pipeline ETL para extração, transformação e consolidação de dados remuneratórios de servidores públicos do Estado do Pará com base em 300k+ páginas de PDFs."
+tech = "Python"
+image = "/images/projects/barbalhoetl.png"
+link = "https://github.com/ezgrs/barbalhoetl"
