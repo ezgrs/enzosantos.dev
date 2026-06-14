@@ -1,7 +1,7 @@
 [author]
 name = "Enzo Santos"
 location = "Belém, Pará, Brasil"
-description = "Desenvolvedor Python. Engenheiro de software. Eu desenvolvo APIs, construo aplicações escaláveis e automatizo fluxos."
+description = "Engenheiro de software com foco em Python. Criando APIs, sistemas escaláveis e automações que reduzem custos, aumentam eficiência e aceleram entregas."
 profile_image = "/images/profile.jpg"
 github = "https://github.com/ezgrs"
 github_username = "ezgrs"
@@ -9,3 +9,61 @@ email = "ezgrs.dev@gmail.com"
 medium = "https://www.medium.com/@ezgrs"
 linkedin = "https://www.linkedin.com/in/ezgrs"
 linkedin_username = "ezgrs"
+
+[[certifications]]
+date = "2024-06"
+title = "Participação do I Meetup AWS User Group Belém"
+url = "https://drive.google.com/uc?export=download&id=1lOzdxABDfOVyI56iMvmyJnta6T598Ne3"
+
+[[certifications]]
+date = "2024-04"
+title = "Participação do trabalho \"Programa de Vigilância Epidemiológica da Fome\""
+url = "https://drive.google.com/uc?export=download&id=1hfG0jEEOjookTzWHn95H6_55erxZ8KC2"
+
+[[certifications]]
+date = "2023-07"
+title = "Ministração do workshop \"Curso Flutter de Verão\""
+url = "https://drive.google.com/uc?export=download&id=1jTs6eED08EERnxpEj0EsPEITzLgYRsXM"
+
+[[certifications]]
+date = "2023-08"
+title = "Participação do workshop \"Testes em Flutter\""
+url = "https://drive.google.com/uc?export=download&id=19TNWmc1UQkh7P7Q0LddEYX6PrKBKWhGM"
+
+[[certifications]]
+date = "2022-06"
+title = "Ministração da palestra \"Desenvolvimento de aplicativo para avaliação do equilíbrio\""
+url = "https://drive.google.com/uc?export=download&id=1UCO40LtA5uQODCMXybD52K0AXDdPfz6n"
+
+[[certifications]]
+date = "2020-01"
+title = "Ministração do curso \"Kotlin para programação Android\""
+url = "https://drive.google.com/uc?export=download&id=1gsEWnRXvzd5qKrfbodMaoHkc2I1mwCzc"
+
+[[certifications]]
+date = "2019-10"
+title = "Apresentação do trabalho \"Entendendo os desafios de portadores de labirintite através do uso de tecnologias móveis\""
+url = "https://drive.google.com/uc?export=download&id=1BbUXv1qu2WPytCho0RJXDzv93znTH3p6"
+
+[[certifications]]
+date = "2019-07"
+title = "Participação do XXXIX Congresso da Sociedade Brasileira de Computação"
+url = "https://drive.google.com/uc?export=download&id=1_2ov4xuNjwGeZ9WBcWH_Sf_Se3EdSen3"
+
+[[honors]]
+title = "Patente do aplicativo Momentum Science"
+institution = "Instituto Nacional da Propriedade Industrial"
+date = "2022-08-30"
+
+[[honors]]
+title = "Patente do aplicativo Meu Coração"
+institution = "Instituto Nacional da Propriedade Industrial"
+date = "2021-08-03"
+
+
+
+
+
+
+
+

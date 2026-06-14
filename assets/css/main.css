@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@source inline("prose");
+@source inline("prose-invert");
+@plugin "@tailwindcss/typography";

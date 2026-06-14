@@ -1,9 +1,6 @@
 baseURL = "https://enzosantos.dev/"
 locale = "pt"
 title = "enzosantos.dev"
-[module]
-  [[module.imports]]
-    path = "github.com/enzo-santos/hugo-noir"
 
 relativeURLs = true
 canonifyURLs = true
@@ -11,16 +8,20 @@ canonifyURLs = true
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = true
 
+summaryLength = 30
+
+[build]
+  writeStats = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/enzo-santos/hugo-noir"
+
 [languages]
   [languages.pt]
     languageName = "Português"
     weight = 1
     contentDir = "content/pt"
-
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    contentDir = "content/en"
 
 [taxonomies]
   category = "categories"
@@ -37,25 +38,6 @@ email = "ezgrs.dev@gmail.com"
 medium = "https://www.medium.com/@ezgrs"
 linkedin = "https://www.linkedin.com/in/ezgrs"
 linkedin_username = "ezgrs"
-
-[[params.certifications]]
-title = "Azure AI Engineering Specialist"
-date = "Dec 2024"
-url = "https://example.com/cert-azure"
-
-[[params.certifications]]
-title = "Google Cloud ML Professional"
-date = "March 2024" 
-url = "https://example.com/cert-gcp"
-[[params.blogs]]
-title = "Lorem Ipsum Systems"
-date = "2025-03-15"
-summary = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
-tags = ["Lorem", "Ipsum", "Dolor"]
-content = """
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit...
-"""
-link = "https://medium.com/@loremipsum/lorem-systems"
 
 [menu]
   [[menu.main]]

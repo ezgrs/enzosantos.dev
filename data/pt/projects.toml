@@ -1,16 +1,30 @@
 [[projects]]
-title = "Tradeland"
-description = "Jogo idle centrado em batalhas automatizadas, coleta de loot e gerenciamento de economia por meio de inimigos aleatórios e baús descobertos."
-tech = "React, Next.js, Tailwind, shadcn-ui"
-image = "/images/projects/tradeland.png"
-link = "https://github.com/ezgrs/tradeland"
+title = "SIPAD"
+description = "Aplicação web para automação de processos administrativos, com dashboards de BI, georreferenciamento de escolas e integrações com Active Directory, Zabbix e serviços de e-mail."
+tech = "Flutter, Python, FastAPI, Docker"
+image = "/images/projects/sipad.png"
+link = "http://sipad.educacao.belem.pa.gov.br"
 
 [[projects]]
-title = "wkdead"
-description = "Aplicativo full-stack para acompanhar e analisar personagens de The Walking Dead por temporada, episódio e status (vivo/morto), incluindo aparições e detalhes de morte."
-tech = "Flutter, Python, FastAPI"
-image = "/images/projects/wkdead.png"
-link = "https://github.com/ezgrs/wkdead"
+title = "Momentum Science"
+description = "Aplicativo para captura, visualização e exportação de dados de sensores inerciais, com suporte a gráficos em tempo real e armazenamento local, voltado à análise de movimentos corporais em testes clínicos de equilíbrio e mobilidade."
+tech = "Flutter, Python"
+image = "/images/projects/momentumscience.png"
+link = "https://www.scielo.br/j/fp/a/sRjXn8FN7RrvPKyByGwss9q"
+
+[[projects]]
+title = "Belém Vacinada Pet"
+description = "Plataforma para gerenciamento da campanha de vacinação pet de 2022 de Belém/PA, incluindo cadastro de usuários, registro de aplicações, geração automática de certificados em PDF e operação offline."
+tech = "Flutter, Firebase"
+image = "/images/projects/belemvacinadapet.png"
+link = "https://vacinacao-pet-sesma.web.app"
+
+[[projects]]
+title = "SEMEC na Escola"
+description = "Plataforma para coleta de dados educacionais por meio de formulários estruturados, permitindo o diagnóstico de escolas da rede municipal de Belém/PA em múltiplas dimensões e apoiando a tomada de decisão a partir da análise de informações coletadas."
+tech = "Flutter, Firebase"
+image = "/images/projects/semecnaescola.png"
+link = ""
 
 [[projects]]
 title = "BarbalhoETL"
@@ -18,3 +32,24 @@ description = "Pipeline ETL para extração, transformação e consolidação de
 tech = "Python"
 image = "/images/projects/barbalhoetl.png"
 link = "https://github.com/ezgrs/barbalhoetl"
+
+[[projects]]
+title = "Tradeland"
+description = "Jogo idle centrado em batalhas automatizadas, coleta de loot e gerenciamento de economia por meio de inimigos aleatórios e baús descobertos."
+tech = "React, Next.js, Tailwind, shadcn-ui"
+image = "/images/projects/tradeland.png"
+link = "https://github.com/ezgrs/tradeland"
+
+[[projects]]
+title = "Bored Button"
+description = "Aplicação web com implementações de jogos clássicos como Sudoku, 2048, Genius e Wordle, oferecendo uma coleção interativa de minijogos acessíveis diretamente no navegador."
+tech = "Kotlin, React"
+image = "/images/projects/boredbutton.png"
+link = "https://github.com/enzo-santos/bored-button"
+
+[[projects]]
+title = "wkdead"
+description = "Aplicação web para acompanhar e analisar personagens de The Walking Dead por temporada, episódio e status (vivo/morto), incluindo aparições e detalhes de morte."
+tech = "Flutter, Python, FastAPI, Docker"
+image = "/images/projects/wkdead.png"
+link = "https://github.com/ezgrs/wkdead"

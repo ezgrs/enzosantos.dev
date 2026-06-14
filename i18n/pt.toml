@@ -11,7 +11,7 @@ other = "Voluntariado"
 other = "Certificações"
 
 [honorsTitle]
-other = "Prêmios"
+other = "Conquistas"
 
 [projectsTitle]
 other = "Projetos"
@@ -37,3 +37,17 @@ other = "Feito com"
 [takeALookAtMy]
 other = "Visite meu" 
 
+[keyResponsibilitiesTitle]
+other = "Responsabilidades:"
+
+[statTechnologiesUsed]
+other = "tecnologias utilizadas"
+
+[statProjectsCompleted]
+other = "projetos finalizados"
+
+[statRecommendationsReceived]
+other = "recomendações recebidas"
+
+[statCoursesCompleted]
+other = "cursos concluídos"
